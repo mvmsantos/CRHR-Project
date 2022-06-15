@@ -1,0 +1,19 @@
+.animate {
+  list-style: none;
+}
+
+.SocialiconsAdjust {
+  display: inline grid;
+  right: 3rem;
+  top: 90%;
+  background-color: transparent!important;
+  position: fixed;
+  transform: translate(0,-50%);
+  z-index: 9999;
+}
+
+.zoomSocialIcons img {
+  width: 64px;
+  height: 64px;
+  cursor: pointer;
+}
